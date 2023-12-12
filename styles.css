@@ -1,0 +1,56 @@
+body {
+
+  font-family: 'Segoe UI Emoji', 'Noto Color Emoji', 'Segoe UI', Arial, sans-serif;
+  width: 200px;
+  padding: 10px;
+  background-color: #a29bfe;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(64, 0, 255);
+}
+
+.container {
+  font-size: 15px;
+  font-weight: bolder;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0px;
+}
+
+#pickup-line {
+  margin-bottom: 10px;
+  font-size: medium;
+  font-weight: bold;
+}
+
+#action-btn {
+  cursor: pointer;
+  border: none;
+  background-color: #6c5ce7;
+  border-radius: 4px;
+  box-shadow: 1px 1px 10px 1px rgba(66, 59, 59, 0.8);
+  -webkit-box-shadow: 1px 1px 10px 1px rgba(66, 59, 59, 0.8);
+  -moz-box-shadow: 1px 1px 10px 1px rgba(66, 59, 59, 0.8);
+}
+
+#copy-icon {
+  color: white;
+}
+
+#copy-icon:hover {
+  color: #a29bfe;
+  font-weight: bolder;
+}
+
+#rotate-icon {
+  cursor: pointer;
+  transition: transform 0.3s ease; /* Adding a smooth transition effect */
+}
+
+#rotate-icon:hover {
+  transform: rotate(180deg); /* Rotate the icon 90 degrees on hover */
+}
