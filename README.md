@@ -38,6 +38,14 @@ If you have any feedback, please reach out to us at <a href="https://bibek10550.
 <a href="https://instagram.com/bibek1432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibek1432" height="30" width="40" /></a>
 </p>
 
+## Screenshots
+<!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
+<img src="https://bibek10550.github.io/bibek10550/assets/images/porjects/pickupline" alt="pickupline"/>
+
+## Logo
+<!-- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png) -->
+![Logo](https://github.com/bibek10550/pickupline/blob/main/icon.png)
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibek10550&" alt="bibek10550" /></p>
